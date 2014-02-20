@@ -65,6 +65,13 @@ header h1:before {
 header h2 {
   font-size: 18px;
   font-weight: 300;
+  color: #DDD;
+  text-align: center;
+}
+
+header h3 {
+  font-size: 15px;
+  font-weight: 200;
   color: #666;
 }
 
